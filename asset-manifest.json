@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f4cb20a.chunk.css",
+    "main.js": "/static/js/main.429461f1.chunk.js",
+    "main.js.map": "/static/js/main.429461f1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.47595eff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.47595eff.js.map",
+    "static/js/2.08404a5f.chunk.js": "/static/js/2.08404a5f.chunk.js",
+    "static/js/2.08404a5f.chunk.js.map": "/static/js/2.08404a5f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9f4cb20a.chunk.css.map": "/static/css/main.9f4cb20a.chunk.css.map",
+    "static/js/2.08404a5f.chunk.js.LICENSE.txt": "/static/js/2.08404a5f.chunk.js.LICENSE.txt",
+    "static/media/copy-icon.8eb03ea1.svg": "/static/media/copy-icon.8eb03ea1.svg",
+    "static/media/discord.10c3485c.svg": "/static/media/discord.10c3485c.svg",
+    "static/media/email.e78adde3.svg": "/static/media/email.e78adde3.svg",
+    "static/media/facebook.9a0f14fc.svg": "/static/media/facebook.9a0f14fc.svg",
+    "static/media/instagram.de28769a.svg": "/static/media/instagram.de28769a.svg",
+    "static/media/link-drop-background.7d06707f.svg": "/static/media/link-drop-background.7d06707f.svg",
+    "static/media/linkedin.cbd326bd.svg": "/static/media/linkedin.cbd326bd.svg",
+    "static/media/nft-background.6e3c48d4.svg": "/static/media/nft-background.6e3c48d4.svg",
+    "static/media/rarity-common.c156c166.svg": "/static/media/rarity-common.c156c166.svg",
+    "static/media/rarity-rare.355ec026.svg": "/static/media/rarity-rare.355ec026.svg",
+    "static/media/rarity-super-rare.383d07f3.svg": "/static/media/rarity-super-rare.383d07f3.svg",
+    "static/media/rarity-uncommon.df7f70d0.svg": "/static/media/rarity-uncommon.df7f70d0.svg",
+    "static/media/rarity-very-rare.681bd7e2.svg": "/static/media/rarity-very-rare.681bd7e2.svg",
+    "static/media/telegram.6f0d4136.svg": "/static/media/telegram.6f0d4136.svg",
+    "static/media/twitter.830c0cc6.svg": "/static/media/twitter.830c0cc6.svg",
+    "static/media/wechat.b73e171e.svg": "/static/media/wechat.b73e171e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47595eff.js",
+    "static/js/2.08404a5f.chunk.js",
+    "static/css/main.9f4cb20a.chunk.css",
+    "static/js/main.429461f1.chunk.js"
+  ]
+}
